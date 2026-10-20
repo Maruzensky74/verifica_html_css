@@ -1,0 +1,1 @@
+il client mediante il browser manda una richiesta http al server, il server ristituisce una risposta http con dentro la pagina html 
