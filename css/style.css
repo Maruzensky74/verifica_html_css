@@ -1,0 +1,33 @@
+body{
+background-color: rgb(248, 156, 18);
+
+/* gh repo create bòa_bla --public --source=. --push*/
+}
+
+header{
+
+    background-color: rgb(8, 56, 145);
+    border-radius: 10px;
+    width: 1800px;
+    height: 100px;
+    
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    text-align: center;
+
+}
+
+.testo{
+    display: flex ;
+}
+
+.pizza_margherita{
+
+height: 800px;
+width:auto;
+background-color: rgb(158, 11, 11);
+
+}
+
